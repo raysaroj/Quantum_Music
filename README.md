@@ -1,2 +1,2 @@
 # Quantum_Music
-This project reproduce the results of quantum musical walk depicted in a paper by Miranda and Basak.
+This project reproduces the results of quantum musical walk depicted in the paper https://arxiv.org/abs/2110.12408 by Miranda and Basak.
